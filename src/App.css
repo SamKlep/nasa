@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&family=Source+Code+Pro&display=swap');
+
+* {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.header {
+  font-family: 'Cabin', sans-serif;
+}
